@@ -1,6 +1,6 @@
-# Project Name
+# GA Postgres Base Image
 
-> GA Postgres Base Image
+> Base Image used for ga-db
 
 Base image used for spinning up the container for postgres database 
 
