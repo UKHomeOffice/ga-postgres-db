@@ -1,6 +1,8 @@
 # GA Postgres Base Image
 
-> Base Image used for ga-db
+> ~~Base Image used for ga-db~~
+#### _`This is now no longer needed as we don't use postgres with flyway. Instead we are now using RDS posgres instance behind Django.`_
+
 
 Base image used for spinning up the container for postgres database 
 
